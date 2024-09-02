@@ -156,7 +156,7 @@ body {
 }
 
 .container {
-      width: 20rem;
+      width: 25rem;
       height: auto;
       border: 1px solid rgb(137, 166, 137);
       
@@ -188,8 +188,8 @@ body {
 }
 
 .imgCon {
-      width: 30rem;
-      height: 5.95rem;
+      width: 33rem;
+      height: 6.5rem;
 }
 
 .imgCon img {
@@ -221,7 +221,7 @@ body {
 /* about */
 
 .about {
-      padding: 2% 10rem;
+      padding: 2rem 10rem;
       background-color: rgba(237, 236, 236, .8);
       margin-top: 2rem;
 }
