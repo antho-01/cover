@@ -189,7 +189,7 @@ body {
 
 .imgCon {
       width: 30rem;
-      height: 6rem;
+      height: 5.95rem;
 }
 
 .imgCon img {
@@ -227,7 +227,7 @@ body {
 }
 
 .about p {
-      font-size: .95rem;
+      font-size: .75rem;
 }
 
 .companyName {
