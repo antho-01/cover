@@ -272,7 +272,7 @@ body {
 }
 
 .feedText p {
-      font-size: 1.1rem;
+      font-size: 1rem;
       margin-top: 1rem;
 }
 
@@ -296,7 +296,7 @@ body {
 
 .footerText {
       width: 30rem;
-      font-size: .85em;
+      font-size: .8rem;
 }
 
 .footerText a {
@@ -314,7 +314,7 @@ body {
 }
 
 .marketTrend {
-      font-size: .85em;
+      font-size: .8rem;
 }
 
 .marketTrend h4 {
